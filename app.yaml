@@ -1,4 +1,4 @@
-service: default
+service: dosm
 runtime: python38
 
 basic_scaling:
